@@ -1,2 +1,2 @@
-# J124
-Intro to Data Journalism Markdown practice resume 
+Fernanda Frausto-Bonilla
+I'm a writer, food, and lover of all things vintage.  
