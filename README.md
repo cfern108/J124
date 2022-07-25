@@ -5,7 +5,7 @@
 1. Excellent Written and Verbal Communication
 2. Bilingual (English and Spanish)
 3. Strong Decision-Making and Adaptation Skills 
-### Markdown
+
 | Employer         | Job Description                                                                                                                                                                                                                                                                                                     |
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | UC Berkeley      | * Provided IT support to students and faculty. * Set up and operation of all current audio/visual and computer equipment, systems, and technology. * Laptop Support, installation of programs including MS. Office, VPN, Adobe Reader…, first level support for security incidents including virus/malware removal. |
