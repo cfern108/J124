@@ -5,3 +5,5 @@
 1. Excellent Written and Verbal Communication
 2. Bilingual (English and Spanish)
 3. Strong Decision-Making and Adaptation Skills 
+Easy Markdown table generator:
+[TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables)
