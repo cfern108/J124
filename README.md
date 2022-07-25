@@ -5,5 +5,8 @@
 1. Excellent Written and Verbal Communication
 2. Bilingual (English and Spanish)
 3. Strong Decision-Making and Adaptation Skills 
-Easy Markdown table generator:
-[TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables)
+|Employer|Job Description|
+|--------|---------------|
+|UC Berkeley|Provided IT support to students anf faculty.|
+|Gente Organizada|Lead staff member aligning methodologies with research goals, acquiring information and interpreting data using a variety of tools.|
+|Chipotle| Primary duties consist of taking orders, preparing meals, packaging food items, and ringing up customer purchases.|
