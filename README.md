@@ -5,8 +5,8 @@
 1. Excellent Written and Verbal Communication
 2. Bilingual (English and Spanish)
 3. Strong Decision-Making and Adaptation Skills 
-|Employer|Job Description|
-|--------|---------------|
-|UC Berkeley|Provided IT support to students anf faculty.|
-|Gente Organizada|Lead staff member aligning methodologies with research goals, acquiring information and interpreting data using a variety of tools.|
-|Chipotle| Primary duties consist of taking orders, preparing meals, packaging food items, and ringing up customer purchases.|
+| Employer         | Job Description                                                                                                                                                                                                                                                                                                     |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| UC Berkeley      | * Provided IT support to students and faculty. * Set up and operation of all current audio/visual and computer equipment, systems, and technology. * Laptop Support, installation of programs including MS. Office, VPN, Adobe Reader…, first level support for security incidents including virus/malware removal. |
+| Chipotle         | * Taking orders. * Preparing meals. * Packaging food items.                                                                                                                                                                                                                                                         |
+| Gente Organizada | * Lead staff member aligning methodologies with research goals. * Acquiring information * Interpreting data using a variety of tools.                                                                                                                                                                               |
